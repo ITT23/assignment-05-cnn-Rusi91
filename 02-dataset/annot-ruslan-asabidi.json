@@ -1,0 +1,272 @@
+{
+    "20230611_191621": {
+        "bboxes": [
+            [
+                0.2859375,
+                0.4083333,
+                0.1515625,
+                0.3083333
+            ]
+        ],
+        "labels":
+        [
+            "like"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_192943": {
+        "bboxes": [
+            [
+                0.1359375,
+                0.359259259,
+                0.21145833,
+                0.325925992
+            ]
+        ],
+        "labels":
+        [
+            "like"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_204711": {
+        "bboxes": [
+            [
+                0.56927083,
+                0.39907407,
+                0.2296875,
+                0.497222222
+            ]
+        ],
+        "labels":
+        [
+            "like"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_191624": {
+        "bboxes": [
+            [
+                0.31739583,
+                0.41944444,
+                0.1515625,
+                0.3083333
+            ]
+        ],
+        "labels":
+        [
+            "dislike"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_192945": {
+        "bboxes": [
+            [
+                0.1520833,
+                0.30925925,
+                0.21145833,
+                0.325925992
+            ]
+        ],
+        "labels":
+        [
+            "dislike"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_204715": {
+        "bboxes": [
+            [
+                0.63177083,
+                0.27870370,
+                0.2296875,
+                0.497222222
+            ]
+        ],
+        "labels":
+        [
+            "dislike"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_192948": {
+        "bboxes": [
+            [
+                0.15822916,
+                0.39907407,
+                0.1515625,
+                0.3083333
+            ]
+        ],
+        "labels":
+        [
+            "peace"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_193008": {
+        "bboxes": [
+            [
+                0.45,
+                0.339814814,
+                0.21145833,
+                0.325925992
+            ]
+        ],
+        "labels":
+        [
+            "peace"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_204719": {
+        "bboxes": [
+            [
+                0.63177083,
+                0.27870370,
+                0.2296875,
+                0.497222222
+            ]
+        ],
+        "labels":
+        [
+            "peace"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_191627": {
+        "bboxes": [
+            [
+                0.28739583,
+                0.408333333,
+                0.1515625,
+                0.3083333
+            ]
+        ],
+        "labels":
+        [
+            "rock"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_192951": {
+        "bboxes": [
+            [
+                0.108854166,
+                0.387962962,
+                0.21145833,
+                0.325925992
+            ]
+        ],
+        "labels":
+        [
+            "rock"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_204723": {
+        "bboxes": [
+            [
+                0.63177083,
+                0.27870370,
+                0.2296875,
+                0.497222222
+            ]
+        ],
+        "labels":
+        [
+            "rock"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_191618": {
+        "bboxes": [
+            [
+                0.28739583,
+                0.358333333,
+                0.1515625,
+                0.3083333
+            ]
+        ],
+        "labels":
+        [
+            "stop"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_192939": {
+        "bboxes": [
+            [
+                0.108854166,
+                0.307962962,
+                0.21145833,
+                0.325925992
+            ]
+        ],
+        "labels":
+        [
+            "stop"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    },
+    "20230611_204707": {
+        "bboxes": [
+            [
+                0.60177083,
+                0.32870370,
+                0.2296875,
+                0.497222222
+            ]
+        ],
+        "labels":
+        [
+            "stop"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "7d1b6d75b8a360d90c79e80c6c2dfb159aa4de63501920dd2f3dd6619ab641e8" 
+    }
+}
